@@ -51,3 +51,7 @@ api-data-webpage/ ├── src/ │ ├── index.html │ ├── styles.c
 - [GitHub Pages](https://pages.github.com/) for hosting the live demo.
 - [Font Awesome](https://fontawesome.com/) for the weather icons.
 ,,,
+
+##Snapshots##
+
+![Image](https://github.com/user-attachments/assets/092dc5aa-1b69-4e00-94d6-f4ed723e0701)
