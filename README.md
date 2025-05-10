@@ -2,9 +2,9 @@
 
 **Company**: CODTECH IT SOLUTIONS  
 
-**Motheraju Krishna Prasad** 
+**Motheraju Ajay Yadav* 
 
-**Intern ID**: CT04DA555  
+**Intern ID**: CT04DA555
 
 **Domain**: fullstack development  
 
